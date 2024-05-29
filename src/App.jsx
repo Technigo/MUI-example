@@ -6,7 +6,6 @@ import CardContent from '@mui/material/CardContent'
 import CardMedia from '@mui/material/CardMedia'
 import Typography from '@mui/material/Typography'
 import styled from 'styled-components'
-import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap'
 import './App.css'
 
 const theme = createTheme({
