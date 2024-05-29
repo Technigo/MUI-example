@@ -11,3 +11,5 @@ This repo provides a simple MUI example using styled components, including:
   - Typography
   - CardActions
   - Button
+
+[Deployed version on Netlify](https://technigo-mui-example.netlify.app/)
